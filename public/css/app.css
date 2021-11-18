@@ -358,7 +358,7 @@ a {color: #000; text-decoration: none;}
 
     .nav-main {height: fit-content;}
 
-    .main2 #fb {margin-left: 70%; padding-right: 10px;}
+    .main2 #fb {padding-right: 10px;}
 
     .nav-main {padding: 30px;}
 
@@ -375,7 +375,7 @@ a {color: #000; text-decoration: none;}
 
         .nav-menu {padding-top: 20px;}
     
-    .main2 #fb {margin-left: 64%; padding-right: 10px;}
+    .main2 #fb {padding-right: 10px;}
 
     .section-main__cnt {width: 100%;}
 
@@ -440,8 +440,7 @@ a {color: #000; text-decoration: none;}
                 margin-right: 30px;
                 font-size: 25px;
                 align-items: center;}
-            .main2 p {font-size: 13px;}
-            .main2 #fb {margin-left: 43%; padding-right: 10px;}         /*Main change*/ 
+            .main2 p {font-size: 13px;}        /*Main change*/ 
 
 
     /*Inicio*/
