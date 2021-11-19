@@ -1,6 +1,6 @@
 <section id="index-section">
     <div class="hide-turnosfcel">
-        <a href="turnos.html" class="btn5">Turnos</a>
+        <a href="turnos" class="btn5">Turnos</a>
     </div>
     <div class="section-main">
         <div class="section-main__cnt">

@@ -27,4 +27,5 @@ class PostController extends Controller
     {
         return view('posts.contacto');
     }
+
 }

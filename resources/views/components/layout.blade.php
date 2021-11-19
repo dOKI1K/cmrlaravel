@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Centro Medico Roca | SMA">
     <meta name="keywords" content="Centro Medico, Roca, San Martin de los Andes, CMR, Autogestion">
-    <meta http-equiv="refresh" content="240">
+<!--<meta http-equiv="refresh" content="240">-->
     <meta name="Lahuen Milla" content="https://doki1k.github.io/Portfolio./">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/app.css">
@@ -30,18 +30,18 @@
                         <a href="turnos.html" class="btn2">Turnos</a>
                     </li>
                     <li>
-                        <a href="{{ '/servicios' }}" id="servicios-site" class="btn">Servicios</a>
+                        <a href="{{ 'servicios' }}" id="servicios-site" class="btn">Servicios</a>
                     </li>
                     <li>
-                        <a href="{{ '/novedades' }}" id="novedades-site"
+                        <a href="{{ 'novedades' }}" id="novedades-site"
                             class="btn">Novedades</a>
                     </li>
                     <li>
-                        <a href="{{ '/contacto' }}" id="contacto-site"
+                        <a href="{{ 'contacto' }}" id="contacto-site"
                             class="btn">Contacto</a>
                     </li>
                     <li class="turnos-pc">
-                        <a href="{{ 'login' }}" class="btn2">Turnos</a>
+                        <a href="{{ 'turnos' }}" class="btn2">Turnos</a>
                     </li>
                 </ul>
                 <span class="responsive-menu">

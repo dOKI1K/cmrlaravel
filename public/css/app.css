@@ -8,6 +8,7 @@ body {background-color: #fff; font-family: "Sen", sans-serif;}
 
 a {color: #000; text-decoration: none;}
 
+input {font-family: "Sen", sans-serif; color: #000;}
 
 /*Botones*/
 
@@ -232,7 +233,7 @@ a {color: #000; text-decoration: none;}
 
 .turnos, .registro {padding: 30px 0 80px;}
 
-.turnos-section, .registro-section {
+.turnos-registro {
     padding-top: 30px;
     background-color: #0da92a;
     color: #fff;
@@ -242,61 +243,16 @@ a {color: #000; text-decoration: none;}
 }
 
     .login-tab, .registro-tab {margin: 30px auto}
-    .login-tab table, .registro-tab table {margin: auto;}
+    .login-tab, .registro-tab {margin: auto;}
 
-    .inp-val {
+    .inp {
         padding: 4px;
         border: #fff solid;
         border-radius: 30px;
-        margin: 3px;
+        margin: 6px auto;
         margin-left: 20px;
         outline: none;
     }
-
-
-    #llenar-campos {display: none; padding-top: 10px;}
-    #llenar-campos2 {display: none; padding-top: 10px;}
-
-    #ingresar-btn {margin: 0 0 20px;}
-    #registrarse-btn {margin: 0 0 20px;}
-
-    .acc1, .acc2, .acc3 {display: block; cursor: pointer;}
-    .acc1:hover, .acc2:hover, .acc3:hover {color: #fff; transition: 0.15s ease-in-out;}
-    
-
-.tomar-turnos {
-    display: block;
-    padding-top: 20px;
-    background-color: #0da92a;
-    color: #fff;
-    width: 100%;
-    text-align: center;
-    margin: auto;
-}
-
-    .tomar-turnos__esp select {
-        margin: 30px;
-        padding: 7px;
-        outline: none;
-        border: solid 0;
-        border-radius: 20px;
-        font-family: 'Sen', sans-serif;
-        font-size: 15px;
-    }
-
-    .welcome {position: relative; display: block;}
-    .turno-titulos, .turno-titulos h3 {padding: 20px;}
-    .welcome .btn3 {margin: 20px;}
-
-    .tomar-turnos__esp {margin: 30px;}
-    .tomar-turnos__esp h4 {font-size: 27px;}
-
-    .mostrar, .ocultar {font-size: 13px;  cursor: pointer; padding: 10px;}
-    .mostrar a, .ocultar a {color: #fff;}
-    .mostrar a img, .ocultar a img {height: 30px;}
-
-    .last-a {padding: 20px 0 30px 0; position: relative;}
-
 
 /*Aside*/
 
