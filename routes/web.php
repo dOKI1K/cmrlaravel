@@ -16,3 +16,6 @@ Route::post('turnos', [RegisterController::class, 'turnosChecked']);
 Route::get('register', [RegisterController::class, 'create']);
 Route::post('register', [RegisterController::class, 'store']);
 
+//pedo
+
+
