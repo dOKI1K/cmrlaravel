@@ -17,5 +17,5 @@ Route::get('register', [RegisterController::class, 'create']);
 Route::post('register', [RegisterController::class, 'store']);
 
 //pedo
-
+//x
 
