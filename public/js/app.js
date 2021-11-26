@@ -10,4 +10,3 @@ addEventListener('DOMContentLoaded', () => {
         }
     });
 
-navMenu.classList.toggle('show');
